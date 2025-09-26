@@ -7,7 +7,7 @@
   📧 **daviamrodrigues@gmail.com**
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviAMRodrigues)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daviamrodrigues)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviamrodrigues)
   
 </div>
 
@@ -59,7 +59,7 @@ Sou estudante de **Informática no CEFET-MG**, apaixonado por tecnologia e sempr
 <table align="center">
 <tr>
 <td align="center" width="200px">
-<img src="https://github.com/user-attachments/assets/backend.png" width="80px"/><br>
+<img src="https://media0.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="80px"/><br>
 <b>⚙️ Desenvolvimento Backend</b><br>
 <em>Sistemas robustos e escaláveis</em>
 </td>
@@ -69,7 +69,7 @@ Sou estudante de **Informática no CEFET-MG**, apaixonado por tecnologia e sempr
 <em>Elegância e eficiência</em>
 </td>
 <td align="center" width="200px">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px"/><br>
+<img src="https://media3.giphy.com/media/ABVK96HgZvWI9SBbXr/giphy.gif" width="80px"/><br>
 <b>🤖 Inteligência Artificial</b><br>
 <em>O futuro da tecnologia</em>
 </td>
