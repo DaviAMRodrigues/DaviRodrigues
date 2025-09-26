@@ -7,7 +7,7 @@ Atualmente, estou envolvido em diversos projetos de programação, tanto individ
 
 - [LLP2](https://github.com/DaviAMRodrigues/LLP2): Projeto voltado para o estudo e prática de linguagens de programação.
 - [TrabalhoPratico3](https://github.com/Grupo-8-2025/TrabalhoPratico3) e [TrabalhoPratico2](https://github.com/Grupo-8-2025/TrabalhoPratico2): Trabalhos desenvolvidos em grupo, focados em desafios acadêmicos e práticos.
-- [Ws49](https://github.com/DaviAMRodrigues/Ws49): Repositório de estudos e experimentos com novas tecnologias.
+- [Programa-METACEFET-2024](https://github.com/DaviAMRodrigues/Ws49](https://github.com/DaviAMRodrigues/Programa-METACEFET-2024): Repositório de um trabalho premiado meu no CEFET-MG.
 
 ## Sobre meus interesses
 
