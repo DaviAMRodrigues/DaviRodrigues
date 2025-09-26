@@ -161,12 +161,6 @@ Explore todos os meus repositórios para ver a evolução do meu aprendizado e p
 
 ---
 
-## 🌟 **Atividade Recente**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 🎯 **Objetivos 2025**
 
