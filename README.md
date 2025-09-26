@@ -76,7 +76,7 @@ Sou estudante de **Informática no CEFET-MG**, apaixonado por tecnologia e sempr
 </tr>
 <tr>
 <td align="center" width="200px">
-<img src="https://media.giphy.com/media/5n2fV5Vg58Z3Tgg6oy/giphy.gif" width="80px"/><br>
+<img src="https://media2.giphy.com/media/l1IY5NRhxdCJYxsmA/giphy.gif" width="80px"/><br>
 <b>📊 Análise de Dados</b><br>
 <em>Dados em insights</em>
 </td>
