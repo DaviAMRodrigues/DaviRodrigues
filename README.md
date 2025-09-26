@@ -155,11 +155,7 @@ Explore todos os meus repositórios para ver a evolução do meu aprendizado e p
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviAMRodrigues&show_icons=true&theme=gradient&hide_border=true&include_all_commits=true&count_private=true)
-  
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAMRodrigues&layout=compact&theme=gradient&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviAMRodrigues&theme=gradient&hide_border=true)
   
 </div>
 
@@ -193,8 +189,7 @@ Explore todos os meus repositórios para ver a evolução do meu aprendizado e p
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviAMRodrigues)
   
   ---
-  
-  ![Visitor Count](https://profile-counter.glitch.me/DaviAMRodrigues/count.svg)
+
   
   ⭐ **Se você chegou até aqui, que tal dar uma estrela nos meus repositórios?** ⭐
   
